@@ -13,6 +13,7 @@
 <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />    
 <img width='50' heigth='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
     
-### Você també pode me encontrar em:
+### Você também pode me encontrar em:
    
-<a href="https://www.linkedin.com/in/brunareisroque/" target=_blank/><img width='100' heigth='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a>
+<a href="https://www.linkedin.com/in/brunareisroque/" target=_blank />
+<img width='100' heigth='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a>
